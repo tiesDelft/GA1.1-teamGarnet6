@@ -21,3 +21,7 @@ use this function to find the absolute value from the subtraction.
 
 call using:
     distance_from_zero(a = 3, b=12)
+**sum_list**
+This function loops over the numbers given and returns the total. The function only accepts a list of integers or floats. 
+call using:
+    sum_values([1, 3, 5])
