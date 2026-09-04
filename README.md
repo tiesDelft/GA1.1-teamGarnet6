@@ -14,3 +14,8 @@ call using:
 this function contains the add function which is used to add two values together.  this function requires floats.
 
 (add(3,2))
+
+**extension of multiplication**
+function for taking the square of c. As the multiplication function, it only works for integers and floats.
+call using:
+    square(c)
