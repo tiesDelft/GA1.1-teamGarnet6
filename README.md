@@ -31,3 +31,4 @@ This function loops over the numbers given and returns the total. The function o
 call using:
     sum_values([1, 3, 5])
 
+test from amelie
